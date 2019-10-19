@@ -1,0 +1,13 @@
+*{
+    border: 1px solid red;
+}
+body{
+    background-color: lightgray;
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+navbar-brand svg img{
+    display: inline-flex;
+    justify-content: flex-end;
+}
+
